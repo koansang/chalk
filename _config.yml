@@ -1,6 +1,5 @@
 # Mandatory settings
 
-base_url: /chalk
 name: Chalk
 paginate: 25
 url: # add your site url (format: https://example.com/)

@@ -1,5 +1,6 @@
 # Mandatory settings
 
+baseurl: '/dev'
 name: Koansang's dev stories
 paginate: 10
 url: # add your site url (format: https://example.com/)
